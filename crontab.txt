@@ -1,0 +1,10 @@
+# You will need to add this in your crontab
+
+Open crontab
+```
+crontab -e
+```
+
+Add this line somewhere
+
+@reboot /root/startswapfile.sh
