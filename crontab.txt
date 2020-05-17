@@ -7,4 +7,4 @@ crontab -e
 
 Add this line somewhere
 
-@reboot /root/startswapfile.sh
+@reboot /home/pi/startswapfile.sh
